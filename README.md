@@ -1,1 +1,1 @@
-# stellar-brightness-analysis
+# stellar-luminosity-analysis
