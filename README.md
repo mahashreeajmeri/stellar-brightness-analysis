@@ -34,11 +34,14 @@ Radius vs log(Luminosity): 0.461
 
 Temperature vs log(Luminosity): 0.480
 
-Both correlations are moderate and positive. Temperature has a slightly stringer relationship with luminosity than radius in this dataset. Due to moderate correlation coefficients, neither factor alone explains luminosity completely.
+Both correlations are moderate and positive. Temperature has a slightly stronger relationship with luminosity than radius in this dataset. Due to moderate correlation coefficients, neither factor alone explains luminosity completely.
 
 # Key Findings
+
 - Stellar Luminosity depends on both temperature and radius.
-- The HR diagram shows a general trend 
+- The HR diagram shows a general trend in accordance with main-sequence stellar behaviour.
+- The moderate correlation highlights influence of other factors such as spectral class and evolutionary stage.
+- The spread of data points shows diversity in stellar properties. 
 
 # Tools Used
 
